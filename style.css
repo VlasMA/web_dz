@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: none; */
+}
+
+.header {
+    height: 200px;
+    background-color: rgb(75, 134, 134);
+    display: flex;
+}
+
+.logo {
+    width: 120px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40 px;
+    margin-left: 40 px;
+}
+
+
+
+
+.footer {
+    height: 200px;
+    background-color: rgb(75, 134, 134);
+    display: flex;
+}
